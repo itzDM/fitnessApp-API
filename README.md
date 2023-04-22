@@ -31,7 +31,7 @@ cd api
 npm install
 ```
 ### step-6
->Run given command to start app
+>Run given command to start server
 
 ```
 npm start
@@ -46,3 +46,5 @@ npm start
 ```
 git clone --single-branch -b main https://github.com/itzDM/backend.git .
 ```
+
+## Note - You can delete controllerName.js , routeName.js and modelName.js
